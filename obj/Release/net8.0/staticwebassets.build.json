@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tfdUHaHSe37lyNxSWNGmYDUw53NCZItM0tWOf6YbyK0=",
+  "Source": "MySqlConnectionCRUD",
+  "BasePath": "_content/MySqlConnectionCRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
